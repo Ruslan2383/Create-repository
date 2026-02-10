@@ -1,0 +1,19 @@
+# Конфиденциальные данные
+.env
+.env.local
+*.key
+*.pem
+
+# Зависимости
+node_modules/
+venv/
+__pycache__/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
