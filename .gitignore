@@ -1,6 +1,13 @@
+# Конфиденциальные данные
 .env
 *.key
+*.pem
+
+# Зависимости
 node_modules/
 venv/
-.vscode/
+__pycache__/
+
+# OS
 .DS_Store
+Thumbs.db
